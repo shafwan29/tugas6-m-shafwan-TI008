@@ -1,0 +1,81 @@
+
+         body{
+            background-color: aliceblue;
+            font-family: 'lucida Sans', verdana, sans-serif;
+         }
+         h1{
+            text-align: center;
+            color: blueviolet;
+         }
+         p{
+            text-align: justify;
+            width: fit-content;
+         }
+         .center{
+            width: 50%;
+            display: block;
+            margin-left: auuto;
+            margin-right: auto;
+         }
+         .foto{
+            background-color: black;
+         }
+         .foto img{
+            width: 23%;
+         }
+         .cod{
+            width: 100%;
+            margin-top: 10px;
+         }
+         .cod p{
+            background-color: yellow;
+            border: 1px dotted green;
+            text-align: center;
+            font-weight: bold;
+            color: blue;
+            margin: 0 auto;
+         }
+         .promo{
+            color: green;
+            text-align: center;
+         }
+         button{
+            background-color: blue;
+            color: yellow;
+            border: 0 ;
+            text-align: center;
+         }
+         .wow{
+            text-align: center;
+         }
+         .bold{
+            font-weight: bold;
+         }
+         .italic{
+            font-style: italic;
+         }
+
+         table #baris1 {
+            background-color: blue;
+         }
+         table #baris2 {
+            background-color: red;
+         }
+         table #baris3 {
+            background-color: pink;
+         }
+         table #baris4 {
+            background-color: brown;
+         }
+         table #baris5 {
+            background-color: green;
+         } 
+         table td,th{
+            border: solid 1px black;
+            margin: 0;
+            padding: 5px;
+         } 
+         table{
+            margin: 0 auto;
+         }
+        
